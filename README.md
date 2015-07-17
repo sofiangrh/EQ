@@ -1,0 +1,2 @@
+# EQ
+Metacity Theme
